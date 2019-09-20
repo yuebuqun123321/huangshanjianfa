@@ -3,5 +3,6 @@ public class Dugujiujian {
 		System.out.println("du gu jiu jian zhen lihai ");
 		System.out.println("ni de jianfa henlaji ,kuaidian qu zigong ");
 		System.out.println("gemen caishi ni baba !!");
+		System.out.println("wocaishi lao da !!!");
 	}
 }
